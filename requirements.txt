@@ -1,5 +1,0 @@
-flask
-pycryptodome
-requests
-protobuf
-pyjwt
